@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(47, 79, 79);
+    color: white;
+}
+
+h1{
+    display: block;
+    text-align: center;
+}
+
+h3{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0 0 3px #001eff, 0 0 5px #00ff37;
+}
+
+div{
+    margin-left: 42%;
+}
+button{
+    
+    border-radius: 7px;
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+label{
+    font-size: 23px;
+}
+input{
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 45%; 
+}
