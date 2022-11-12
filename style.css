@@ -8,29 +8,34 @@ h1{
     text-align: center;
 }
 
+#myDiv{
+    width: 350px;
+    height: 100px;
+    background-color: hsl(190,100%,4.71%);
+    margin: auto;
+    margin-top: 10%;
+    border: 20px solid hsl(190,100%,4.71%);
+    border-radius: 20px;
+}
+
 h3{
     display: block;
     text-align: center;
     font-size: 30px;
-    text-shadow: 0 0 3px #001eff, 0 0 5px #00ff37;
+    text-shadow: 0 0 3px #e700c1, 0 0 5px #f8e802;
 }
 
-div{
-    margin-left: 42%;
-}
 button{
-    
     border-radius: 7px;
     background-color: aliceblue;
     font-size: 20px;
+    
 }
 
-label{
-    font-size: 23px;
-}
 input{
+    
     border: 1px solid;
     border-radius: 5px;
-    text-align: center;
-    margin-left: 45%; 
+    margin-left: 28%; 
+    
 }
